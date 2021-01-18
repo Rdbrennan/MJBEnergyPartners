@@ -379,7 +379,8 @@ textarea.input100 {
   font-family: FontAwesome;
   display: block;
   position: absolute;
-  color: #c80000;
+  color: #11c800;
+  border: 1px solid #11c800;
   font-size: 16px;
   top: 58%;
   -webkit-transform: translateY(-50%);
@@ -437,8 +438,8 @@ textarea.input100 {
   background-color: #fff;
   border: 1px solid #ececec;
   border-radius: 50%;
-  top: -15px;
-  right: -15px;
+  top: 40px;
+  right: 40px;
 
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -475,7 +476,10 @@ hr {
 }
 
 
-
+.input100.dropdown{
+  border: 0px;
+  margin-top: 6px;
+}
 
 
 /* align-items: center;

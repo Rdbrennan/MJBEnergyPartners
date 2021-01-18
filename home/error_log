@@ -1,2 +1,0 @@
-[04-Nov-2018 15:39:32 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home4/rdbrenna/public_html/home/email.php on line 7
-[04-Nov-2018 16:30:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/rdbrenna/public_html/home/email.php:7) in /home4/rdbrenna/public_html/home/email.php on line 8
